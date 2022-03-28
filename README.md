@@ -5,14 +5,15 @@ Yet another Modbus Client library for LabVIEW.
 LabVIEW 2015 and higher.
 
 ## Features
-1. Serial (RTU, ASCII) and TCP protocols.
-2. Implemented read/write functions (Modbus function codes)
+1. RTU, ASCII and TCP protocols via serial or network connection.
+2. Implemented read/write functions (Modbus function codes):
    - Read Coils / Discrete Inputs / Holding Registers / Input Registers (1/2/3/4)
    - Write Single Coil / Holding Register (5/6)
    - Write Multiple Coils / Holding Registers (15/16)
-3. Automatic reconnection to device.
-4. Support of multiple devices on the same serial port (VISA Lock/Unlock).
-5. Possibility of other Modbus function code (including user-defined) implementation.
+3. Splitting single read/write requests into multiple requests with valid number of memory elements. 
+4. Automatic reconnection to device.
+5. Support of multiple devices on the same serial port (VISA Lock/Unlock).
+6. Possibility of other Modbus function code (including user-defined) implementation.
 
 ## Serial Port Settings
 Modbus Serial Line Protocol and Implementation Guide states that:
