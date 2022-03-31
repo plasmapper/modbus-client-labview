@@ -1,5 +1,5 @@
 # Modbus Client Library for LabVIEW
-Yet another Modbus Client library for LabVIEW.
+Yet another Modbus client library for LabVIEW.
 
 ## Requirements
 LabVIEW 2015 and higher.
@@ -28,11 +28,11 @@ For Modbus TCP and Modbus ASCII this VI can be used with any function code, sinc
 
 ## Examples
 ### Modbus Client.vi
-Simple Modbus Client application.
+Simple Modbus client application.
 ### Speed Test.vi
 Tests client-server connection and measures transaction rate.
 ### Memory Test.vi
-Tests Modbus Server by writing to random memory locations, reading back and comparing data.
+Tests Modbus server by writing to random memory locations, reading back and comparing data.
 
 ## Documentation
 [Modbus (Wikipedia)](https://en.wikipedia.org/wiki/Modbus)  
