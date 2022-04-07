@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-06 11:34:33" Creator="Researcher" Comments="" ID="c0a3f37e17b95bfba2f5b6ec3c28455e">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-07 21:03:16" Creator="Researcher" Comments="" ID="1ecfb5c2391118981666c95d40e1dc95">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Modbus_Client</Package_File_Name>
     <Library_Version>1.0.0.2</Library_Version>
@@ -296,7 +296,7 @@ All implemented Read/Write VIs internally use Command.vi with function code and 
         <Path>Public\Close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EAB7FE527BD5B0579B86432FEC5BEF65</GUID>
+      <GUID>2B2C4228577481B24994F62E92A2D5E3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -429,7 +429,7 @@ All implemented Read/Write VIs internally use Command.vi with function code and 
         <Path>Public\Data\Write Multiple Holding Registers.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0D23EBDE03FC8AE5531418E2660FA3C6</GUID>
+      <GUID>963978CD6FC91CA89B3D239D027FE37D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -464,7 +464,7 @@ All implemented Read/Write VIs internally use Command.vi with function code and 
         <Path>Public\Utility\Command.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>56E938BF49C938B9E399A5CB413377E9</GUID>
+      <GUID>FCAA03887D32050311D374A6E127F42B</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
