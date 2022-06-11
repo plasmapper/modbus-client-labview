@@ -15,7 +15,7 @@ LabVIEW 2015 and higher.
 5. Support of multiple devices on the same serial port (VISA Lock/Unlock).
 6. Possibility of other Modbus function code (including user-defined) implementation.
 
-## Serial Port Settings
+## Serial port settings
 Modbus Serial Line Protocol and Implementation Guide states that:
 1. 8 data bits should be used for Modbus RTU and 7 data bits - for Modbus ASCII.
 2. 1 stop bit should be used if there is parity bit and 2 stop bits - if there is no parity bit.  
