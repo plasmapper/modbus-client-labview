@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-28 17:51:29" Creator="Researcher" Comments="" ID="962c0e6e38e4c533898fa833ce773ced">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-06-30 13:11:00" Creator="Researcher" Comments="" ID="8480360198550fe9b43d9c45d9ae031c">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Modbus_Client</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -46,7 +46,7 @@ All implemented Read/Write VIs internally use Command.vi with function code and 
       <Copyright/>
       <Packager>plasmapper</Packager>
       <URL>https://github.com/plasmapper/modbus-client-labview</URL>
-      <Release_Notes/>
+      <Release_Notes>Initial release.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -391,7 +391,7 @@ All implemented Read/Write VIs internally use Command.vi with function code and 
         <Path>Public\Write Multiple Holding Registers.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8DE7EFC3144574F4BB5776A6E97FABC7</GUID>
+      <GUID>350DF5F12B6D923CA3D350A64CAF04FD</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
