@@ -29,9 +29,9 @@ For Modbus TCP and Modbus ASCII this VI can be used with any function code, sinc
 ## Examples
 ### Modbus Client.vi
 Simple Modbus client application.
-### Speed Test.vi
+### Modbus Speed Test.vi
 Tests client-server connection and measures transaction rate.
-### Memory Test.vi
+### Modbus Memory Test.vi
 Tests Modbus server by writing to random memory locations, reading back and comparing data.
 
 ## Documentation
