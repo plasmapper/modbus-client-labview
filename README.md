@@ -4,6 +4,9 @@ Yet another Modbus client library for LabVIEW.
 ## Requirements
 LabVIEW 2015 and higher.
 
+## Installation
+[VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_modbus_client/)
+
 ## Features
 1. RTU, ASCII and TCP protocols via serial or network connection.
 2. Implemented read/write functions (Modbus function codes):
