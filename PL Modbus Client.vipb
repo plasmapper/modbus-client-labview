@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-08-02 13:39:02" Creator="Researcher" Comments="" ID="45445d9e6a4d095b854a0152cee9bb5a">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-08-02 21:30:33" Creator="Researcher" Comments="" ID="ec1c1b362320fd044c4b74c7182f1ea4">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Modbus_Client</Package_File_Name>
-    <Library_Version>1.0.1.6</Library_Version>
+    <Library_Version>1.0.1.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -46,11 +46,7 @@ All implemented Read/Write VIs internally use Command.vi with function code and 
       <Copyright/>
       <Packager>plasmapper</Packager>
       <URL>https://github.com/plasmapper/modbus-client-labview</URL>
-      <Release_Notes>Added
-- Settable delay after transaction.
-
-Changed
-- Fixed multiple serial device reconnection issue.</Release_Notes>
+      <Release_Notes/>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -409,7 +405,7 @@ Changed
         <Path>Public\Set Delay After Transaction.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C5B3A5703D4329CBE6669ECDBDF5E0DA</GUID>
+      <GUID>575D7A95A1ED9E2B91E89BF87A761A2A</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

@@ -8,6 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - `Set Delay After Transaction.vi` to the palette.
 
+### Changed
+- Close invalid VISA sessions in Reinitialize.vi.
+
 ## [1.0.1] - 2022-08-02
 ### Added
 - Settable delay after transaction.
