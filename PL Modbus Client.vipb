@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-08-02 21:30:33" Creator="Researcher" Comments="" ID="ec1c1b362320fd044c4b74c7182f1ea4">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-08-22 17:05:20" Creator="Researcher" Comments="" ID="fac69aa286012fa5f8ca0b0cf0381e02">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Modbus_Client</Package_File_Name>
-    <Library_Version>1.0.1.7</Library_Version>
+    <Library_Version>1.0.2.8</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -46,7 +46,11 @@ All implemented Read/Write VIs internally use Command.vi with function code and 
       <Copyright/>
       <Packager>plasmapper</Packager>
       <URL>https://github.com/plasmapper/modbus-client-labview</URL>
-      <Release_Notes/>
+      <Release_Notes>Added
+- `Set Delay After Transaction.vi` to the palette.
+
+Changed
+- Close invalid VISA sessions in Reinitialize.vi.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -405,7 +409,7 @@ All implemented Read/Write VIs internally use Command.vi with function code and 
         <Path>Public\Set Delay After Transaction.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>575D7A95A1ED9E2B91E89BF87A761A2A</GUID>
+      <GUID>F4EFD423D3163E78EC37A28436F4E649</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
